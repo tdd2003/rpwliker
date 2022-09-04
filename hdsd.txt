@@ -1,0 +1,2 @@
+1 lệnh duy nhất cho pc chứ android đéo chạy được đâu :v
+pip install requests
